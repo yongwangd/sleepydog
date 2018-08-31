@@ -1,0 +1,30 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "http://weibo.com/u/1921541980/home"
+#   2) curl --cookie cookies.txt "http://weibo.com/u/1921541980/home"
+#   3) aria2c --load-cookies cookies.txt "http://weibo.com/u/1921541980/home"
+#
+weibo.com	FALSE	/signup/v5	FALSE	1533324696	lang	en-us
+passport.weibo.com	FALSE	/visitor	FALSE	1533525986	tid	D9XNoo1qtsy4usAD89jhRlHRoZ29Ow0W1MAw9pLEfE4=__095
+.weibo.com	TRUE	/	FALSE	1817148307	SINAGLOBAL	5749923100217.695.1501788307027
+.weibo.com	TRUE	/	FALSE	1503333889	wvr	6
+.weibo.com	TRUE	/	FALSE	1534265114	UOR	,,www.google.com
+weibo.com	FALSE	/	FALSE	0	TC-Ugrow-G0	e66b2e50a7e7f417f6cc12eec600f517
+.weibo.com	TRUE	/	FALSE	0	SSOLoginState	1503073388
+weibo.com	FALSE	/	FALSE	0	TC-V5-G0	634dc3e071d0bfd86d751caf174d764e
+weibo.com	FALSE	/	FALSE	0	TC-Page-G0	4e714161a27175839f5a8e7411c8b98c
+s.weibo.com	FALSE	/	FALSE	0	SWB	usrmdinst_1
+.weibo.com	TRUE	/	FALSE	0	_s_tentry	-
+.weibo.com	TRUE	/	FALSE	0	Apache	9960888166553.84.1503073413262
+.weibo.com	TRUE	/	FALSE	1534177413	ULV	1503073413277:4:4:3:9960888166553.84.1503073413262:1502767722227
+weibo.com	FALSE	/	FALSE	0	YF-V5-G0	c37fc61749949aeb7f71c3016675ad75
+weibo.com	FALSE	/	FALSE	0	YF-Page-G0	46f5b98560a83dd9bfdd28c040a3673e
+.weibo.com	TRUE	/	FALSE	1818449350	SCF	Av52C_VXvtBc-Ttkmdsu7WURhrlXT93bPdcWjdHPVIY0pVKh5jVvET16o9CcsK5AST0jtxS1712UKMLCx2gXSR0.
+.weibo.com	TRUE	/	FALSE	0	SUB	_2A250kyKWDeRhGedH6VMU9C_FwzyIHXVX6RNerDV8PUJbmtBeLRLXkW-CW7fslTny1LQEWAFNCCeOOAX5dA..
+.weibo.com	TRUE	/	FALSE	1534625350	SUBP	0033WrSXqPxfM725Ws9jqgMF55529P9D9WWyOXhZH4vzwQLkIR.WGy8Y5JpX5o2p5NHD95Qp1KzpSKBp1Kn7Ws4DqcjLi--RiKyFiKy2i--NiK.4i-i2i--fiKnfiKnRi--NiK.XiKLsP7tt
+.weibo.com	TRUE	/	FALSE	1534625350	SUHB	0JvheI4QceF40f
+.passport.weibo.com	TRUE	/	FALSE	1818449350	SRT	D.QqHBJZ4nT3bIPrMb4cYGSdMzibSiPObDQrS35ebHNEYddDSNOcPpMERt4EP1RcsrAcPJ4!oRTsVkAsV3SeijPFuuJ4oMMPWBM!uDA-PLOrERidMBI8t7*B.vAflW-P9Rc0lR-yk!DvnJqiQVbiRVPBtS!r3JZPQVqbgVdWiMZ4siOzu4DbmKPWQ54yRTE9ziGSwWsEJTrbNIbWG5OYSi49ndDP6JevsO!YmKOPMVDEI5eBONrHnJ4klisWqimMoR-9JTNrk4cbI54S9N3!pTNrkOcbIIZM9Id!pTNrkScbIUcS9N-uNTNrkOcbIIbY9Nroq4DWrWv77
+.passport.weibo.com	TRUE	/	FALSE	1818449350	SRF	1503089350
+.weibo.com	TRUE	/	FALSE	1534609386	ALF	1534609386
+weibo.com	FALSE	/	FALSE	1503090261	wb_cusLike_1921541980	N

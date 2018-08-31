@@ -1,0 +1,10 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://awapgdvpriapp01:8443/pulseui/"
+#   2) curl --cookie cookies.txt "https://awapgdvpriapp01:8443/pulseui/"
+#   3) aria2c --load-cookies cookies.txt "https://awapgdvpriapp01:8443/pulseui/"
+#
+awapgdvpriapp01	FALSE	/pulseui	TRUE	0	JSESSIONID	5sczMRv9l4xttJkJs1JdflZS
+awapgdvpriapp01	FALSE	/	FALSE	1566158970	_ga	GA1.1.1479031054.1490040755
+awapgdvpriapp01	FALSE	/	FALSE	1503173370	_gid	GA1.1.24110487.1503086971
